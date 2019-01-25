@@ -1,3 +1,3 @@
-## juditecypreste.github.io
+## https://jessycanoronha.github.io/portfolio/
 
-Este é o meu [portfólio](https://juditecypreste.github.io/).
+Este é o meu [portfólio](https://jessycanoronha.github.io/portfolio/).
